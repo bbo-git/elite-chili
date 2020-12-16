@@ -4,6 +4,12 @@ module.exports = {
     pathPrefix: '/',
     siteMetadata: siteMetadata,
     plugins: [
+        {
+            resolve: `gatsby-theme-gallery`,
+            options: {
+                basePath: '/gallery/'
+            } 
+        },
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
         `gatsby-transformer-remark`,

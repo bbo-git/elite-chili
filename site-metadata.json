@@ -28,6 +28,11 @@
             }
         ]
     },
+    "social": {
+        "name": "Jairo",
+        "url": "sdf"  
+    },
+    "author": "Jairo",
     "footer": {
         "type": "footer",
         "content": "&copy; All rights reserved.",

@@ -29,6 +29,9 @@ sections:
       Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id.
       Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus
       porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu
+  - type: section_gallery
+    title: gallery
+    section_id: gallery
   - type: section_posts
     title: Recent Posts
     section_id: posts
